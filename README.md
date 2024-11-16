@@ -33,4 +33,4 @@ This system helps users manage their health by analyzing their inputs and offeri
 
 Clone this repository:  
 ```bash
-git clone https://github.com/pranjalcodera30/Health-Management-system.git
+https://github.com/pranjalcodera30/Health-Management-system.git
